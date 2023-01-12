@@ -1,5 +1,5 @@
 # Amazon Text Network Graph
-This is a Text Network Graph comprising of the words taken from the Amazon dataset. This is very helpful because:
+This is a Text Network Graph comprising the words taken from the Amazon dataset. This is very helpful because:
 
 *   Identify the clusters of words that occur together
 *   Study the realtionship between words
